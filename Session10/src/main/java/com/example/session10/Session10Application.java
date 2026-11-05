@@ -1,0 +1,1 @@
+JWT_SECRET="cJMfTO21RcHsEmkHvOLik/V/YlDvTixNkz5X4WfMlyI="
